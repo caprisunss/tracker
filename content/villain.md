@@ -1,6 +1,6 @@
 ---
 title: villain
-aka: ["bald headed", "pimp mode"]
+aka: ["bald headed", "pimp mode", "let me tell ya"]
 artists: ["isaiah rashad"]
 tags: ["2020"]
 file_name: 14. Villain.mp3
